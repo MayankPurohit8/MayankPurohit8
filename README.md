@@ -1,4 +1,4 @@
-<img src="https://assets.pinterest.com/ext/embed.html?id=3307399720886878" alt="Banner" width="100%">
+<img src="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-7280593681001594903" alt="Banner" width="100%">
 
 
 Hey there! 👋 I'm Mayank,
