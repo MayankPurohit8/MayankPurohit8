@@ -1,4 +1,4 @@
-<vid src="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-7280593681001594903" alt="Banner" width="100%">
+<iframe src="https://giphy.com/embed/EAOTD2L0qyvhm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-blushing-EAOTD2L0qyvhm">via GIPHY</a></p>
 
 
 Hey there! 👋 I'm Mayank,
