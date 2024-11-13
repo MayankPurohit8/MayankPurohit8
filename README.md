@@ -1,4 +1,4 @@
-![Welcome to my profile!](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2t4d2lpNmtrZWlweWQyZGozODlvNHF0ZGk4M2dzZTRyMTY4M3B4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69mUSKBujnpgmxcqlg/giphy.gif)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=5136987069176471" height="443" width="345" frameborder="0" scrolling="no" ></iframe>
 
 Hey there! 👋 I'm Mayank,
 I'm a B.Tech student exploring the world of web development and machine learning. Currently on a journey to master TECHNOLOGY, I love creating projects that bring ideas to life!
