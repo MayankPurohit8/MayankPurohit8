@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey there! 👋 I'm [Your Name]
+I'm a B.Tech student exploring the world of web development and machine learning. Currently on a journey to master TECHNOLOGY, I love creating projects that bring ideas to life!
 
-<!--
-**MayankPurohit8/MayankPurohit8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I’m Working On
+> 🌐 React Projects: Building interactive, real-time web apps to sharpen my React and JavaScript skills!
+> 📸 Image Recognition: Developing cool applications that can identify faces and objects—taking machine learning out of theory and into the real world.
+> 🌍 Carbon Footprint Tracking: Helping quantify and reduce carbon footprints with tools for sustainability (think green tech!).
 
-Here are some ideas to get you started:
+🚀 My Skills
+> Web Development
+> Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+> React & JSX: Taking interactivity to the next level by mastering the art of React!
+> Machine Learning with Python: Creating smarter apps with ML, especially in the field of image recognition.
+> Core CS Concepts: Diving deeper into operating systems and data structures to build a solid foundation.
+🛠️ Tools I Love
+> Visual Studio Code 🖥️
+> Git & GitHub 🚀
+
+🌐 Connect With Me!
