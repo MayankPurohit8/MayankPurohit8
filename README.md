@@ -1,4 +1,5 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=5136987069176471" height="443" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=3307399720886878" alt="Banner" width="100%">
+
 
 Hey there! 👋 I'm Mayank,
 I'm a B.Tech student exploring the world of web development and machine learning. Currently on a journey to master TECHNOLOGY, I love creating projects that bring ideas to life!
