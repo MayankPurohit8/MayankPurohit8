@@ -1,4 +1,4 @@
-Hey there! 👋 I'm [Your Name]
+Hey there! 👋 I'm Mayank,
 I'm a B.Tech student exploring the world of web development and machine learning. Currently on a journey to master TECHNOLOGY, I love creating projects that bring ideas to life!
 
 🔭 What I’m Working On
