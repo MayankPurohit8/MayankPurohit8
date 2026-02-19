@@ -1,79 +1,67 @@
-<h1 align="center">Mayank Purohit</h1>
-<h3 align="center">Full-Stack Developer | Engineering Undergraduate | Machine Learning Enthusiast</h3>
+<h1 align="center">🌸 Mayank Purohit 🌸</h1>
+<h3 align="center">Full-Stack Engineer | ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=6E0D0D&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB;C%2B%2B+%7C+Data+Structures;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;C%2B%2B+%7C+Data+Structures;Machine+Learning+Explorer;Building+Elegant+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on a scalable full-stack system  
-- 🌱 Learning **Machine Learning & Data Science**  
-- 💬 Ask me about **React, C++, System Design**  
-- 📫 Contact: **mayankpurohit888@gmail.com**  
-
-> *"Discipline. Precision. Continuous Growth."*
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ5M3A5bXFrYjM5d3U0Y3Y0YzVxYTNqOGJydjM2MWl5b3E2d2M4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
+</p>
 
 ---
 
-## 🛠 Technical Stack
+## 💖 About Me
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
+- 🌱 Exploring **Machine Learning & Data Science**
+- 🧠 Strong foundation in **DSA & C++**
+- 💻 Building scalable **Full-Stack Applications**
+- 🎯 Focused on writing clean, production-ready code
+- 📫 **mayankpurohit888@gmail.com**
+
+> *Soft aesthetics. Strong engineering.*
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,html,css,mongodb,mysql,git,linux" />
 </p>
 
-### 🌐 Frontend & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 📊 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
 </p>
 
-### ⚙️ Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankpurohit8&show_icons=true&theme=rose_pine&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpurohit8&theme=rose_pine&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankpurohit8&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpurohit8&theme=dark&hide_border=true&background=000000" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
+  <img src="https://leetcard.jacoblin.cool/mayankpurohit?theme=light&font=Fira+Code&ext=heatmap" />
 </p>
 
 ---
 
-## 🏆 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mayankpurohit?theme=dark&font=Source+Code+Pro&ext=heatmap" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌸 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/mayank-purohit-">
@@ -89,4 +77,4 @@
 
 ---
 
-<h3 align="center">Focused on building scalable systems and mastering intelligent technologies.</h3>
+<h3 align="center">✨ Calm Mind. Clean Code. Continuous Growth. ✨</h3>
