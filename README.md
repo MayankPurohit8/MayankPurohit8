@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mayank Purohit</h1>
-<h3 align="center">🚀 Full-Stack Developer | Engineering Undergraduate | ML Explorer</h3>
+<h1 align="center">✨ Mayank Purohit ✨</h1>
+<h3 align="center">⚡ Engineering Undergraduate | Full-Stack Shinobi | ML Explorer ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Machine+Learning+Enthusiast;C%2B%2B+Problem+Solver;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=FF61C3&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;C%2B%2B+Warrior;Machine+Learning+Apprentice;Anime+Lover+%7C+Code+Ninja" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-- 🔭 Currently building a **Project Management Platform**
-- 🌱 Learning **Machine Learning & Data Science**
-- 💬 Ask me about **React, C++, Full-Stack Development**
-- 📫 Email: **mayankpurohit888@gmail.com**
-- ⚡ Fun Fact: **Anime | Gaming | Plants | Food | Bikes | Cars**
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="600"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌸 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
+⚔️ Currently building a **Project Management Platform**  
+🌱 Training arc: **Machine Learning & Data Science**  
+💬 Talk to me about **React, C++, Full-Stack Systems**  
+📫 Scroll of contact: **mayankpurohit888@gmail.com**  
+🔥 Power Level: Constantly Increasing  
+
+🎮 Side Quests:  
+`ANIME | GAMING | PLANTS | FOOD | BIKES | CARS`
+
+---
+
+## 🧠 Tech Arsenal
 
 ### 💻 Languages
 <p>
@@ -31,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
@@ -48,38 +57,38 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Main Quest
 
-### 📌 Project Management Platform
-A full-stack collaboration tool designed to enhance productivity, manage tasks, and streamline teamwork.
+### 🏯 Project Management Platform
 
-🔗 Repository:  
-👉 https://github.com/MayankPurohit8/PROjer
+A full-stack collaboration system built to enhance productivity and streamline teamwork like a perfectly synchronized anime squad.
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankpurohit8&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpurohit8&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🔗 https://github.com/MayankPurohit8/PROjer
 
 ---
 
-## 🏆 LeetCode & Competitive Programming
+## 📊 Battle Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mayankpurohit?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankpurohit8&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpurohit8&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Code Arena
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mayankpurohit?theme=dark&font=Orbitron&ext=heatmap" />
+</p>
+
+---
+
+## 🌐 Join My Guild
 
 <p align="center">
 <a href="https://linkedin.com/in/mayank-purohit-">
@@ -95,17 +104,17 @@ A full-stack collaboration tool designed to enhance productivity, manage tasks, 
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Power Goals
 
-- 🏗️ Build production-grade scalable apps  
-- 🧠 Master ML fundamentals  
-- 🏆 Strengthen DSA & Problem Solving  
-- 💼 Land role at a top product company  
+⚡ Master Advanced System Design  
+⚡ Level Up ML & AI  
+⚡ Build Scalable Production Apps  
+⚡ Enter a Top Product Company  
 
 ---
 
-<h3 align="center">🔥 “Consistency Beats Motivation.” 🔥</h3>
+<h3 align="center">🔥 “Train Like A Protagonist. Build Like A Sensei.” 🔥</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankpurohit8&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mayankpurohit8&label=Visitors&color=ff69b4&style=flat" />
 </p>
