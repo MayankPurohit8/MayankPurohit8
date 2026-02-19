@@ -1,25 +1,26 @@
+<h1 align="center">Hi 👋, I'm Mayank Purohit</h1>
+<h3 align="center">Engineering Undergraduate</h3>
 
+- 🔭 I’m currently working on [Project management platform](https://github.com/MayankPurohit8/PROjer)
 
+- 🌱 I’m currently learning **Machine learning and data science**
 
+- 💬 Ask me about **react , C++**
 
-Hey there! 👋 I'm Mayank,
-I'm a B.Tech student exploring the world of web development and machine learning. Currently on a journey to master TECHNOLOGY, I love creating projects that bring ideas to life!
+- 📫 How to reach me **mayankpurohit888@gmail.com**
 
-🔭 What I’m Working On
-> 🌐 React Projects: Building interactive, real-time web apps to sharpen my React and JavaScript skills!
-> 📸 Image Recognition: Developing cool applications that can identify faces and objects—taking machine learning out of theory and into the real world.
-> 🌍 Carbon Footprint Tracking: Helping quantify and reduce carbon footprints with tools for sustainability (think green tech!).
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QICvguTKoBjzsRl5_E7S3LcZUeqYADzH/view?usp=sharing](https://drive.google.com/file/d/1QICvguTKoBjzsRl5_E7S3LcZUeqYADzH/view?usp=sharing)
 
-🚀 My Skills
-> Web Development
-> Machine Learning
+- ⚡ Fun fact **ANIME | GAMING | PLANTS | FOOD | BIKES | CARS**
 
-🌱 Currently Learning
-> React & JSX: Taking interactivity to the next level by mastering the art of React!
-> Machine Learning with Python: Creating smarter apps with ML, especially in the field of image recognition.
-> Core CS Concepts: Diving deeper into operating systems and data structures to build a solid foundation.
-🛠️ Tools I Love
-> Visual Studio Code 🖥️
-> Git & GitHub 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mayank-purohit-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-purohit-" height="30" width="40" /></a>
+<a href="https://instagram.com/iammaynk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammaynk_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayankpurohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankpurohit" height="30" width="40" /></a>
+</p>
 
-🌐 Connect With Me!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&show_icons=true&locale=en&layout=compact" alt="mayankpurohit8" /></p>
