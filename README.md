@@ -1,86 +1,78 @@
-<h1 align="center">✨ Mayank Purohit ✨</h1>
-<h3 align="center">⚡ Engineering Undergraduate | Full-Stack Shinobi | ML Explorer ⚡</h3>
+<h1 align="center">⚔️ Mayank Purohit ⚔️</h1>
+<h3 align="center">Engineering Cadet | Full-Stack Warrior | ML Recruit</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=FF61C3&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;C%2B%2B+Warrior;Machine+Learning+Apprentice;Anime+Lover+%7C+Code+Ninja" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;C%2B%2B+Strategist;Machine+Learning+Trainee;Shinzou+Wo+Sasageyo" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="700"/>
 </p>
 
 ---
 
-## 🌸 About Me
+## 🛡️ About The Cadet
 
-<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" />
 
-⚔️ Currently building a **Project Management Platform**  
-🌱 Training arc: **Machine Learning & Data Science**  
-💬 Talk to me about **React, C++, Full-Stack Systems**  
-📫 Scroll of contact: **mayankpurohit888@gmail.com**  
-🔥 Power Level: Constantly Increasing  
+⚔️ Currently building a powerful full-stack system  
+🧠 Training in **Machine Learning & Data Science**  
+💬 Discuss strategy: **React | C++ | System Design**  
+📫 Contact Scroll: **mayankpurohit888@gmail.com**  
 
-🎮 Side Quests:  
+🔥 Philosophy:  
+*Discipline in code. Precision in architecture. Relentless growth.*
+
+🎮 Side Interests:  
 `ANIME | GAMING | PLANTS | FOOD | BIKES | CARS`
 
 ---
 
-## 🧠 Tech Arsenal
+## ⚙️ Combat Arsenal
 
-### 💻 Languages
+### 🗡️ Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-### 🌐 Frontend & Backend
+### 🏰 Frontend & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
 </p>
 
-### 🗄️ Databases
+### 🧱 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 📊 Data Science
+### 🧪 Data & ML
 <p>
   <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
 </p>
 
-### 🧰 Tools
+### ⚒️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 ---
 
-## 🚀 Main Quest
-
-### 🏯 Project Management Platform
-
-A full-stack collaboration system built to enhance productivity and streamline teamwork like a perfectly synchronized anime squad.
-
-🔗 https://github.com/MayankPurohit8/PROjer
-
----
-
-## 📊 Battle Stats
+## 📊 Battle Records
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankpurohit8&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpurohit8&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankpurohit8&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpurohit8&theme=dark&hide_border=true&background=000000" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&show_icons=true&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpurohit8&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
 </p>
 
 ---
 
-## 🏆 Code Arena
+## 🏆 Training Grounds
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mayankpurohit?theme=dark&font=Orbitron&ext=heatmap" />
@@ -88,7 +80,7 @@ A full-stack collaboration system built to enhance productivity and streamline t
 
 ---
 
-## 🌐 Join My Guild
+## 🤝 Join The Corps
 
 <p align="center">
 <a href="https://linkedin.com/in/mayank-purohit-">
@@ -104,17 +96,4 @@ A full-stack collaboration system built to enhance productivity and streamline t
 
 ---
 
-## 🎯 2026 Power Goals
-
-⚡ Master Advanced System Design  
-⚡ Level Up ML & AI  
-⚡ Build Scalable Production Apps  
-⚡ Enter a Top Product Company  
-
----
-
-<h3 align="center">🔥 “Train Like A Protagonist. Build Like A Sensei.” 🔥</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankpurohit8&label=Visitors&color=ff69b4&style=flat" />
-</p>
+<h3 align="center">🔥 SHINZOU WO SASAGEYO 🔥</h3>
